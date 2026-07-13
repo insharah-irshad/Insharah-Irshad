@@ -190,9 +190,9 @@ Selected for a Web Development internship opportunity to gain practical experien
 
 ## ✿ Certifications
 
-**Introduction to Python** — DataCamp
-**Introduction to SQL** — Simplilearn
-**Introduction to Workflow Automation with n8n**
+- **Introduction to Python** — DataCamp
+- **Introduction to SQL** — Simplilearn
+- **Introduction to Workflow Automation with n8n**
 
 <!-- Add new certifications below in the same format -->
 
