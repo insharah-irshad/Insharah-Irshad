@@ -30,7 +30,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
-## 🤍 About Me
+## About Me 
+────୨ৎ────
 
 Hi I'm **Insharah Irshad** a **BS Artificial Intelligence** student with a strong interest in exploring how technology can be used to create smarter solutions.
 
@@ -43,21 +44,21 @@ I enjoy experimenting with new technologies, solving programming challenges, rea
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
-## 🎯 Current Focus
+## ✿ Current Focus
 
 <div align="center">
 
 | | | |
 |:---:|:---:|:---:|
-| 🧠 Machine Learning | 🔬 Deep Learning | 👁️ Web Developement |
-| 🐍 Python | 🔗 n8n |
-| 🤖 Artificial Intelligence | 📈 CInternship |
+| ⬩➤ Machine Learning | ⬩➤ Deep Learning | ⬩➤ Web Developement |
+| ⬩➤ Python | ⬩➤ n8n |
+| ⬩➤ Artificial Intelligence | ⬩➤ Internship |
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
-## 💼 Featured Projects
+## ✿ Featured Projects
 
 <table width="100%">
 <tr>
@@ -91,7 +92,7 @@ A predictive text application developed in Java using Trie Data Structure concep
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Memory Matching Game
+###  Memory Matching Game
 A polished, interactive memory game with smooth animations.
 
 **Tech:** `C++` `SFML`
@@ -104,7 +105,7 @@ A polished, interactive memory game with smooth animations.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Lost & Found Management System
+###  Lost & Found Management System
 A database management system designed to efficiently store, manage, and retrieve lost and found records.
 
 **Tech:** `SQL` `MySQL` `Database Management Systems`
@@ -121,7 +122,7 @@ A database management system designed to efficiently store, manage, and retrieve
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
-## 🚀 Experience
+## ✿ Experience
 
 <table width="100%">
 <tr>
@@ -164,7 +165,7 @@ Selected for a Web Development internship opportunity to gain practical experien
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
-## 🛠️ Technical Skills
+## ✿ Technical Skills
 
 **Programming Languages**
 
@@ -172,8 +173,8 @@ Selected for a Web Development internship opportunity to gain practical experien
 
 **Artificial Intelligence**
 
-<img src="https://img.shields.io/badge/OpenCV-1E1418?style=for-the-badge&logo=opencv&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/MediaPipe-7D3C4A?style=for-the-badge&logo=google&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/NumPy-9E2A2B?style=for-the-badge&logo=numpy&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/Machine%20Learning-120C0E?style=for-the-badge&logo=tensorflow&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/Computer%20Vision-1E1418?style=for-the-badge&logo=opencv&logoColor=C9A0AA"/>
-
+ <img src="https://img.shields.io/badge/NumPy-9E2A2B?style=for-the-badge&logo=numpy&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/Machine%20Learning-120C0E?style=for-the-badge&logo=tensorflow&logoColor=C9A0AA"/>
+ 
 **Automation**
 
 <img src="https://img.shields.io/badge/n8n-7D3C4A?style=for-the-badge&logo=n8n&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/APIs-9E2A2B?style=for-the-badge&logo=fastapi&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/HTTP%20Requests-120C0E?style=for-the-badge&logo=curl&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/JSON-1E1418?style=for-the-badge&logo=json&logoColor=C9A0AA"/>
@@ -188,17 +189,17 @@ Selected for a Web Development internship opportunity to gain practical experien
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
-## 🏅 Certifications
+## ✿ Certifications
 
-- 🐍 **Introduction to Python** — DataCamp
-- 🗄️ **Introduction to SQL** — Simplilearn
-- 🔗 **Introduction to Workflow Automation with n8n**
+⬩➤ **Introduction to Python** — DataCamp
+⬩➤ **Introduction to SQL** — Simplilearn
+⬩➤ **Introduction to Workflow Automation with n8n**
 
 <!-- Add new certifications below in the same format -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
-## 📊 GitHub Analytics
+## ✿ GitHub Analytics
 
 <div align="center">
 
@@ -216,7 +217,7 @@ Selected for a Web Development internship opportunity to gain practical experien
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
-## 🌱 Learning Journey
+## ✿ Learning Journey
 
 <div align="center">
 
@@ -226,7 +227,7 @@ Selected for a Web Development internship opportunity to gain practical experien
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
-## 🧭 Current Mission
+## ✿ Current Mission
 
 - [x] Master Python
 - [ ] Explore Artificial Intelligence and its practical applications
@@ -237,13 +238,14 @@ Selected for a Web Development internship opportunity to gain practical experien
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
-## ✨ Fun Facts
+## ✿ Fun Facts
 
-- 🎨 Passionate about branding, design, and creative thinking.
-- 🤖 Interested in Artificial Intelligence and emerging technologies.
-- 💡 Enjoy turning ideas into practical projects.
-- 🌸 Love exploring aesthetics, creativity, and innovation.
-- 📚 Always curious to learn something new.
+-  Passionate about branding, design, and creative thinking.
+-  Interested in Artificial Intelligence and emerging technologies.
+-  Enjoy turning ideas into practical projects.
+-  Love exploring aesthetics, creativity, and innovation.
+-  Always curious to learn something new.
+-  🎧ྀི♪⋆.✮
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
