@@ -50,9 +50,9 @@ I enjoy experimenting with new technologies, solving programming challenges, rea
 
 | | | |
 |:---:|:---:|:---:|
-| ⬩➤ Machine Learning | ⬩➤ Deep Learning | ⬩➤ Web Developement |
-| ⬩➤ Python | ⬩➤ n8n |
-| ⬩➤ Artificial Intelligence | ⬩➤ Internship |
+|  Machine Learning | Deep Learning |  Web Developement |
+| Python | n8n |
+| Artificial Intelligence | Internship |
 
 </div>
 
@@ -177,23 +177,22 @@ Selected for a Web Development internship opportunity to gain practical experien
  
 **Automation**
 
-<img src="https://img.shields.io/badge/n8n-7D3C4A?style=for-the-badge&logo=n8n&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/APIs-9E2A2B?style=for-the-badge&logo=fastapi&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/HTTP%20Requests-120C0E?style=for-the-badge&logo=curl&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/JSON-1E1418?style=for-the-badge&logo=json&logoColor=C9A0AA"/>
+<img src="https://img.shields.io/badge/n8n-7D3C4A?style=for-the-badge&logo=n8n&logoColor=F5EDE6"/>  <img src="https://img.shields.io/badge/JSON-1E1418?style=for-the-badge&logo=json&logoColor=C9A0AA"/>
 
 **Databases**
 
-<img src="https://img.shields.io/badge/MySQL-7D3C4A?style=for-the-badge&logo=mysql&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/SQLite-9E2A2B?style=for-the-badge&logo=sqlite&logoColor=F5EDE6"/>
+<img src="https://img.shields.io/badge/SQL-9E2A2B?style=for-the-badge&logo=mysql&logoColor=F5EDE6"/>
 
 **Development Tools**
 
-<img src="https://img.shields.io/badge/Git-120C0E?style=for-the-badge&logo=git&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/GitHub-1E1418?style=for-the-badge&logo=github&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/VS%20Code-7D3C4A?style=for-the-badge&logo=visualstudiocode&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-9E2A2B?style=for-the-badge&logo=cisco&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/RARS-120C0E?style=for-the-badge&logo=riscv&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/Linux-1E1418?style=for-the-badge&logo=linux&logoColor=C9A0AA"/>
-
+<img src="https://img.shields.io/badge/Git-120C0E?style=for-the-badge&logo=git&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/GitHub-1E1418?style=for-the-badge&logo=github&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/VS%20Code-7D3C4A?style=for-the-badge&logo=visualstudiocode&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-9E2A2B?style=for-the-badge&logo=cisco&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/RARS-120C0E?style=for-the-badge&logo=riscv&logoColor=C9A0AA"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
 ## ✿ Certifications
 
-⬩➤ **Introduction to Python** — DataCamp
-⬩➤ **Introduction to SQL** — Simplilearn
-⬩➤ **Introduction to Workflow Automation with n8n**
+**Introduction to Python** — DataCamp
+**Introduction to SQL** — Simplilearn
+**Introduction to Workflow Automation with n8n**
 
 <!-- Add new certifications below in the same format -->
 
