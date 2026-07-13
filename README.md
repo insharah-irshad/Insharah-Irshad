@@ -3,7 +3,7 @@
 <!-- ================= BANNER ================= -->
 <!-- Placeholder premium banner using capsule-render. Swap this src for a custom-designed
      neural-network / AI-brain banner (e.g. made in Canva) whenever you have one ready. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B141A,50:7D3C4A,100:9E2A2B&height=220&section=header&text=Insharah%20Irshad&fontSize=48&fontColor=F5EDE6&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20%7C%20Python%20Developer%20%7C%20Future%20AI%20Engineer&descSize=17&descAlignY=58&descColor=C9A0AA&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120C0E,50:7D3C4A,100:9E2A2B&height=220&section=header&text=Insharah%20Irshad&fontSize=48&fontColor=F5EDE6&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20%7C%20Python%20Developer%20%7C%20Future%20AI%20Engineer&descSize=17&descAlignY=58&descColor=C9A0AA&animation=fadeIn" width="100%"/>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=C9A0AA&center=true&vCenter=true&random=false&width=650&lines=Artificial+Intelligence+Student;Python+Developer;AI+%26+Automation+Enthusiast;Computer+Vision+Explorer;Building+Smart+Solutions;Lifelong+Learner" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 <!-- ================= SOCIAL LINKS ================= -->
 <p>
 <a href="https://github.com/insharah-irshad">
-<img src="https://img.shields.io/badge/GitHub-7D3C4A?style=for-the-badge&logo=github&logoColor=C9A0AA" />
+<img src="https://img.shields.io/badge/GitHub-120C0E?style=for-the-badge&logo=github&logoColor=C9A0AA" />
 </a>
 <a href="https://www.linkedin.com/in/insharah-irshad">
 <img src="https://img.shields.io/badge/LinkedIn-7D3C4A?style=for-the-badge&logo=linkedin&logoColor=F5EDE6" />
@@ -21,16 +21,17 @@
 </a>
 <!-- Add your portfolio badge here once ready:
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-9E2A2B?style=for-the-badge&logo=aboutdotme&logoColor=C9A0AA" />
+<img src="https://img.shields.io/badge/Portfolio-1E1418?style=for-the-badge&logo=aboutdotme&logoColor=C9A0AA" />
 </a>
 -->
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:2B141A&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:9E2A2B,100:7D3C4A&height=60&section=header&text=About%20Me&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
+## About Me 
+────୨ৎ────
 
 Hi I'm **Insharah Irshad** a **BS Artificial Intelligence** student with a strong interest in exploring how technology can be used to create smarter solutions.
 
@@ -41,23 +42,23 @@ Currently expanding my skills in **Python, Artificial intelligence, Machine Lear
 I enjoy experimenting with new technologies, solving programming challenges, real worl project and internships oppourtunities to improve my skills
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B141A,100:9E2A2B&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:7D3C4A,100:C9A0AA&height=60&section=header&text=Current%20Focus&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
+## ✿ Current Focus
 
 <div align="center">
 
 | | | |
 |:---:|:---:|:---:|
-| ⬩➤ Machine Learning | ⬩➤ Deep Learning | ⬩➤ Web Developement |
-| ⬩➤ Python | ⬩➤ n8n |
-| ⬩➤ Artificial Intelligence | ⬩➤ Internship |
+|  Machine Learning | Deep Learning |  Web Developement |
+| Python | n8n |
+| Artificial Intelligence | Internship |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:2B141A&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:9E2A2B,100:7D3C4A&height=60&section=header&text=Featured%20Projects&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
+## ✿ Featured Projects
 
 <table width="100%">
 <tr>
@@ -119,9 +120,9 @@ A database management system designed to efficiently store, manage, and retrieve
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B141A,100:9E2A2B&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:7D3C4A,100:C9A0AA&height=60&section=header&text=Experience&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
+## ✿ Experience
 
 <table width="100%">
 <tr>
@@ -162,21 +163,21 @@ Selected for a Web Development internship opportunity to gain practical experien
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:2B141A&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:9E2A2B,100:7D3C4A&height=60&section=header&text=Technical%20Skills&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
+## ✿ Technical Skills
 
 **Programming Languages**
 
-<img src="https://img.shields.io/badge/Python-C9A0AA?style=for-the-badge&logo=python&logoColor=2B141A"/> <img src="https://img.shields.io/badge/C++-7D3C4A?style=for-the-badge&logo=cplusplus&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/Java-7D3C4A?style=for-the-badge&logo=java&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/SQL-9E2A2B?style=for-the-badge&logo=mysql&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/JavaScript%20(Learning)-9E2A2B?style=for-the-badge&logo=javascript&logoColor=C9A0AA"/>
+<img src="https://img.shields.io/badge/Python-120C0E?style=for-the-badge&logo=python&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/C++-1E1418?style=for-the-badge&logo=cplusplus&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/Java-7D3C4A?style=for-the-badge&logo=java&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/SQL-9E2A2B?style=for-the-badge&logo=mysql&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/JavaScript%20(Learning)-120C0E?style=for-the-badge&logo=javascript&logoColor=C9A0AA"/>
 
 **Artificial Intelligence**
 
- <img src="https://img.shields.io/badge/NumPy-9E2A2B?style=for-the-badge&logo=numpy&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/Machine%20Learning-C9A0AA?style=for-the-badge&logo=tensorflow&logoColor=2B141A"/>
+ <img src="https://img.shields.io/badge/NumPy-9E2A2B?style=for-the-badge&logo=numpy&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/Machine%20Learning-120C0E?style=for-the-badge&logo=tensorflow&logoColor=C9A0AA"/>
  
 **Automation**
 
-<img src="https://img.shields.io/badge/n8n-7D3C4A?style=for-the-badge&logo=n8n&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/JSON-7D3C4A?style=for-the-badge&logo=json&logoColor=C9A0AA"/>
+<img src="https://img.shields.io/badge/n8n-7D3C4A?style=for-the-badge&logo=n8n&logoColor=F5EDE6"/>  <img src="https://img.shields.io/badge/JSON-1E1418?style=for-the-badge&logo=json&logoColor=C9A0AA"/>
 
 **Databases**
 
@@ -184,29 +185,28 @@ Selected for a Web Development internship opportunity to gain practical experien
 
 **Development Tools**
 
-<img src="https://img.shields.io/badge/Git-9E2A2B?style=for-the-badge&logo=git&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/GitHub-C9A0AA?style=for-the-badge&logo=github&logoColor=2B141A"/> <img src="https://img.shields.io/badge/VS%20Code-7D3C4A?style=for-the-badge&logo=visualstudiocode&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-9E2A2B?style=for-the-badge&logo=cisco&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/RARS-7D3C4A?style=for-the-badge&logo=riscv&logoColor=C9A0AA"/>
+<img src="https://img.shields.io/badge/Git-120C0E?style=for-the-badge&logo=git&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/GitHub-1E1418?style=for-the-badge&logo=github&logoColor=C9A0AA"/> <img src="https://img.shields.io/badge/VS%20Code-7D3C4A?style=for-the-badge&logo=visualstudiocode&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-9E2A2B?style=for-the-badge&logo=cisco&logoColor=F5EDE6"/> <img src="https://img.shields.io/badge/RARS-120C0E?style=for-the-badge&logo=riscv&logoColor=C9A0AA"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B141A,100:9E2A2B&height=3&width=100%"/>
+## ✿ Certifications
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:7D3C4A,100:C9A0AA&height=60&section=header&text=Certifications&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
-
-⬩➤ **Introduction to Python** — DataCamp
-⬩➤ **Introduction to SQL** — Simplilearn
-⬩➤ **Introduction to Workflow Automation with n8n**
+**Introduction to Python** — DataCamp
+**Introduction to SQL** — Simplilearn
+**Introduction to Workflow Automation with n8n**
 
 <!-- Add new certifications below in the same format -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:2B141A&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:9E2A2B,100:7D3C4A&height=60&section=header&text=GitHub%20Analytics&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
+## ✿ GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=insharah-irshad&show_icons=true&hide_border=true&bg_color=2B141A&title_color=C9A0AA&icon_color=9E2A2B&text_color=F5EDE6&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=insharah-irshad&hide_border=true&background=2B141A&stroke=9E2A2B&ring=C9A0AA&fire=9E2A2B&currStreakLabel=C9A0AA&sideLabels=F5EDE6&dates=F5EDE6&currStreakNum=F5EDE6&sideNums=F5EDE6"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=insharah-irshad&show_icons=true&hide_border=true&bg_color=120C0E&title_color=C9A0AA&icon_color=9E2A2B&text_color=F5EDE6&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=insharah-irshad&hide_border=true&background=120C0E&stroke=9E2A2B&ring=C9A0AA&fire=9E2A2B&currStreakLabel=C9A0AA&sideLabels=F5EDE6&dates=F5EDE6&currStreakNum=F5EDE6&sideNums=F5EDE6"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insharah-irshad&layout=compact&hide_border=true&bg_color=2B141A&title_color=C9A0AA&text_color=F5EDE6&langs_count=8"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=insharah-irshad&bg_color=2B141A&color=C9A0AA&line=9E2A2B&point=F5EDE6&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insharah-irshad&layout=compact&hide_border=true&bg_color=120C0E&title_color=C9A0AA&text_color=F5EDE6&langs_count=8"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=insharah-irshad&bg_color=120C0E&color=C9A0AA&line=9E2A2B&point=F5EDE6&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
 
 <br/>
 
@@ -214,9 +214,9 @@ Selected for a Web Development internship opportunity to gain practical experien
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B141A,100:9E2A2B&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:7D3C4A,100:C9A0AA&height=60&section=header&text=Learning%20Journey&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
+## ✿ Learning Journey
 
 <div align="center">
 
@@ -224,9 +224,9 @@ Selected for a Web Development internship opportunity to gain practical experien
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:2B141A&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:9E2A2B,100:7D3C4A&height=60&section=header&text=Current%20Mission&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
+## ✿ Current Mission
 
 - [x] Master Python
 - [ ] Explore Artificial Intelligence and its practical applications
@@ -235,9 +235,9 @@ Selected for a Web Development internship opportunity to gain practical experien
 - [ ] Learn automation and improve workflow efficiency
 - [ ] Gain industry experience through internships and continuous learning
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B141A,100:9E2A2B&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:7D3C4A,100:C9A0AA&height=60&section=header&text=Fun%20Facts&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
+## ✿ Fun Facts
 
 -  Passionate about branding, design, and creative thinking.
 -  Interested in Artificial Intelligence and emerging technologies.
@@ -246,11 +246,11 @@ Selected for a Web Development internship opportunity to gain practical experien
 -  Always curious to learn something new.
 -  🎧ྀི♪⋆.✮
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:2B141A&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
 <div align="center">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:9E2A2B,100:7D3C4A&height=60&section=header&text=Let%27s%20Connect&fontSize=24&fontColor=F5EDE6&fontAlignY=58&animation=fadeIn" width="480"/></div>
+## 💬 Let's Connect
 
 I'm always open to discussing AI projects, automation ideas, or new opportunities.
 
@@ -264,4 +264,4 @@ I'm always open to discussing AI projects, automation ideas, or new opportunitie
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B141A,50:7D3C4A,100:9E2A2B&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120C0E,50:7D3C4A,100:9E2A2B&height=100&section=footer" width="100%"/>
