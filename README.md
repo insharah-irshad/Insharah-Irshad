@@ -32,9 +32,14 @@
 
 ## 🤍 About Me
 
-I'm a **BS Artificial Intelligence** student with a genuine love for building things that think, see, and learn. My focus sits at the intersection of **Python development**, **computer vision**, and **workflow automation** — I enjoy taking a messy, manual process and turning it into something clean and intelligent.
+Hi I'm **Insharah Irshad** a **BS Artificial Intelligence** student with a strong interest in exploring how technology can be used to create smarter solutions.
 
-I care about writing code that solves real problems, not just code that works. Whether it's tracking hand gestures to build a virtual keyboard or designing a database from scratch, I approach each project as a chance to learn something I didn't know yesterday. I'm early in my journey toward becoming an **AI Engineer**, and I'm building that path one project at a time.
+My academic journey has helped me develope solid understanding of computer science through coursework and projects involving **Object-Oriented Programming, C/C++, Java, Data Structures & Algorithms, Database Management Systems, Computer Networks, Computer Organization & Assembly Language**, along with web technologies include **HTML and CSS**.
+
+Currently expanding my skills in **Python, Artificial intelligence, Machine Learning, AI Automation, Web devleopement** while working on hands-on projects and strengthening my practical experience.
+
+I enjoy experimenting with new technologies, solving programming challenges, real worl project and internships oppourtunities to improve my skills
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
@@ -44,9 +49,9 @@ I care about writing code that solves real problems, not just code that works. W
 
 | | | |
 |:---:|:---:|:---:|
-| 🧠 Machine Learning | 🔬 Deep Learning | 👁️ Computer Vision |
-| 🐍 Python | ⚙️ Workflow Automation | 🔗 n8n |
-| 🤖 Artificial Intelligence | 🌍 Open Source | 📈 Continuous Growth |
+| 🧠 Machine Learning | 🔬 Deep Learning | 👁️ Web Developement |
+| 🐍 Python | 🔗 n8n |
+| 🤖 Artificial Intelligence | 📈 CInternship |
 
 </div>
 
@@ -58,28 +63,28 @@ I care about writing code that solves real problems, not just code that works. W
 <tr>
 <td width="50%" valign="top">
 
-### 🖐️ AI Virtual Keyboard
-Real-time hand-tracking keyboard built with computer vision.
-
-**Tech:** `Python` `OpenCV` `MediaPipe` `NumPy`
+### Secure WiFi Network Design with VLAN Segmentation & Network Security
+**Tech:** `Cisco Packet Tracer` `Networking Concepts` `MediaPipe` `VLAN Configuration`
 
 **Highlights**
-- Hand tracking & gesture recognition
-- Fully virtual, contact-free keyboard
-- Real-time typing detection
+- Designed VLAN-based network segmentation
+- Configured IP addressing and routing concepts
+- Implemented network security practices
+- Improved understanding of enterprise network design
 
 </td>
 <td width="50%" valign="top">
 
-### 🗂️ Lost & Found Management System
-A relational database system for tracking lost and found items.
+### Predictive Text System using Data Structures & Algorithms
+A predictive text application developed in Java using Trie Data Structure concepts to provide efficient word suggestions.
 
-**Tech:** `SQL` `MySQL`
+**Tech:** `Java` `Data Structures & Algorithms`
 
 **Highlights**
-- Full database design & ER diagram
-- Triggers & stored procedures
-- Normalized schema design
+- Implemented Trie-based searching
+- Optimized word lookup operations
+- Worked with large dictionary datasets
+- Applied DSA concepts to a real-world application.
 
 </td>
 </tr>
@@ -99,15 +104,16 @@ A polished, interactive memory game with smooth animations.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Computer Network Project
-A simulated enterprise network built for a networking course.
+### 🌐 Lost & Found Management System
+A database management system designed to efficiently store, manage, and retrieve lost and found records.
 
-**Tech:** `Cisco Packet Tracer`
+**Tech:** `SQL` `MySQL` `Database Management Systems`
 
 **Highlights**
-- VLAN configuration
-- Routing setup
-- Network security fundamentals
+- Designed database structure
+- Created ER model
+- Applied normalization techniques
+- Implemented SQL queries, triggers, and procedures
 
 </td>
 </tr>
@@ -124,9 +130,33 @@ A simulated enterprise network built for a networking course.
 **Python Programming Intern** — *Decode Labs*
 `Remote Internship`
 
-- Worked on real Python programming tasks and daily development work
-- Strengthened backend logic and problem-solving skills
-- Gained hands-on experience translating requirements into working code
+Currently working as a Python Programming Intern, focusing on strengthening my programming fundamentals and gaining practical experience through hands-on tasks.
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+**Frontend Web Development Intern** — *NeuroFive Solutions*
+`Remote Internship`
+
+Selected for a Frontend Web Development internship focused on gaining practical experience in modern web development and improving frontend development skills.
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+**Web Development Intern** — *Crixsoft Solutions*
+`Remote Internship`
+
+Selected for a Web Development internship opportunity to gain practical experience in building and improving web based applications.
 
 </td>
 </tr>
@@ -161,7 +191,7 @@ A simulated enterprise network built for a networking course.
 ## 🏅 Certifications
 
 - 🐍 **Introduction to Python** — DataCamp
-- 🤖 **Building Scalable Agentic Systems**
+- 🗄️ **Introduction to SQL** — Simplilearn
 - 🔗 **Introduction to Workflow Automation with n8n**
 
 <!-- Add new certifications below in the same format -->
@@ -190,7 +220,7 @@ A simulated enterprise network built for a networking course.
 
 <div align="center">
 
-`Artificial Intelligence` · `Deep Learning` · `Machine Learning` · `Automation` · `Data Structures` · `System Design`
+`Artificial Intelligence` · `Deep Learning` · `Machine Learning` · `Automation` · `Object-Oriented Programming (C++ & Java)`. `Data Structures and Algorithm` ·`Database Management Systems`. `Computer Networks`. `Computer Organization and Assenmbly lang`.`HTML CSS`
 
 </div>
 
@@ -199,21 +229,21 @@ A simulated enterprise network built for a networking course.
 ## 🧭 Current Mission
 
 - [x] Master Python
-- [ ] Become an AI Engineer
-- [ ] Build real-world AI products
+- [ ] Explore Artificial Intelligence and its practical applications
+- [ ] Build real world AI products
 - [ ] Learn advanced Machine Learning
-- [ ] Contribute to Open Source
-- [ ] Keep learning, every single day
+- [ ] Learn automation and improve workflow efficiency
+- [ ] Gain industry experience through internships and continuous learning
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:120C0E,100:9E2A2B&height=3&width=100%"/>
 
 ## ✨ Fun Facts
 
-- 💡 Passionate about Artificial Intelligence and where it's headed
-- 🛠️ I love building real-world projects, not just tutorials
-- 📈 Curious about business & entrepreneurship
-- 🔭 Always exploring emerging technologies
-- 📚 Never done learning something new
+- 🎨 Passionate about branding, design, and creative thinking.
+- 🤖 Interested in Artificial Intelligence and emerging technologies.
+- 💡 Enjoy turning ideas into practical projects.
+- 🌸 Love exploring aesthetics, creativity, and innovation.
+- 📚 Always curious to learn something new.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9E2A2B,100:120C0E&height=3&width=100%"/>
 
